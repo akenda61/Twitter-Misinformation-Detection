@@ -1,5 +1,5 @@
 Code acompanying paper: https://drive.google.com/file/d/1gI0aPUvjRvy-GmRz-e0PEel-I7ZyoNwM/view
-<br>
+<br> <br>
 Abstract: The global use of social media is set to increase further while at the same time introduce the challenge of
 preventing misinformation being spread into wider society. News consumption via social media is increasingly being
 used for this purpose as it is low cost, provides easy access and enables rapid dissemination of information. Therefore,
